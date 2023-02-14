@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://rephysoftech.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://sitespro99.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "rephysoftech.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "sitespro99.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "rephysoftech.com", // This allows an alternative site description for meta data for pages.
+    "sitespro99.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "rephysoftech.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "sitespro99.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "rephysoftech.com",
+    title: "sitespro99.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://rephysoftech.com/",
+        url: "https://sitespro99.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://rephysoftech.com/contact",
+        url: "https://sitespro99.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://rephysoftech.com/",
+        url: "https://sitespro99.com/",
       },
       {
         label: "Sitemap",
-        url: "https://rephysoftech.com/sitemap.xml",
+        url: "https://sitespro99.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://rephysoftech.com/contact",
+        url: "https://sitespro99.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "rephysoftech.com",
+    title: "sitespro99.com",
     description:
-      "rephysoftech.com",
+      "sitespro99.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "rephysoftech.com",
+    title: "sitespro99.com",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "rephysoftech.com",
+  siteTitle: "sitespro99.com",
   siteDescription:
-    "rephysoftech.com",
+    "sitespro99.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
