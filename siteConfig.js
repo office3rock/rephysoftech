@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://web-global.net", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://rephysoftech.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "web-global.net", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "rephysoftech.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "web-global.net", // This allows an alternative site description for meta data for pages.
+    "rephysoftech.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "web-global.net", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "rephysoftech.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "web-global.net",
+    title: "rephysoftech.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://web-global.net/",
+        url: "https://rephysoftech.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://web-global.net/contact",
+        url: "https://rephysoftech.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://web-global.net/",
+        url: "https://rephysoftech.com/",
       },
       {
         label: "Sitemap",
-        url: "https://web-global.net/sitemap.xml",
+        url: "https://rephysoftech.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://web-global.net/contact",
+        url: "https://rephysoftech.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "web-global.net",
+    title: "rephysoftech.com",
     description:
-      "web-global.net",
+      "rephysoftech.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "web-global.net",
+    title: "rephysoftech.com",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "web-global.net",
+  siteTitle: "rephysoftech.com",
   siteDescription:
-    "web-global.net",
+    "rephysoftech.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
